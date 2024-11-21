@@ -71,11 +71,12 @@ Combination, Dry, Normal, Oily, Sensitive: Binary columns indicating suitability
 ## **How to Run the Application**
 1. Clone the repository:
    ```bash
-   git clone <https://github.com/kathleenokelo/ML2-Capstone-Skincare-recommender-system>
+   git clone <'https://github.com/kathleenokelo/ML2-Capstone-Skincare-recommender-system'>
    ```
 2. Navigate to the project directory:
    ```bash
-   cd skincare-recommender
+   cd ML2-Capstone-Skincare-recommender-system
+
    ```
 3. Install required dependencies:
    ```bash
