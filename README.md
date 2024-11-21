@@ -71,7 +71,7 @@ Combination, Dry, Normal, Oily, Sensitive: Binary columns indicating suitability
 ## **How to Run the Application**
 1. Clone the repository:
    ```bash
-   git clone <repository_url>
+   git clone <https://github.com/kathleenokelo/ML2-Capstone-Skincare-recommender-system>
    ```
 2. Navigate to the project directory:
    ```bash
@@ -83,7 +83,7 @@ Combination, Dry, Normal, Oily, Sensitive: Binary columns indicating suitability
    ```
 4. Run the Streamlit app:
    ```bash
-   streamlit run app.py
+   streamlit run deploy.py
    ```
 5. Access the app in your web browser at `http://localhost:8501`.
 
